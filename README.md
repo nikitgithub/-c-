@@ -28,3 +28,5 @@
 ![image](https://user-images.githubusercontent.com/109956617/181311718-d6d63f90-b7c8-4619-b63c-27278d572697.png)
 
 Задание 3. Игра «Угадай число».
+
+![image](https://user-images.githubusercontent.com/109956617/181312506-acaa892a-90d5-4267-b7e4-f58f9fc71ea0.png)
