@@ -39,3 +39,6 @@
 
 ![image](https://user-images.githubusercontent.com/109956617/181346138-f6c9d5c9-32bf-42ab-b5b3-ae8a0945abea.png)
 
+# модуль 6
+создание справочника создавая файл
+
