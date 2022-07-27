@@ -23,5 +23,8 @@
 
 ![image](https://user-images.githubusercontent.com/109956617/181092971-429053a2-0bde-4d02-b5c9-ae15671934ef.png)
 
-Задание 2. Наименьший элемент в последовательности.
+Задание 2. Сложение матриц.
+
+![image](https://user-images.githubusercontent.com/109956617/181311718-d6d63f90-b7c8-4619-b63c-27278d572697.png)
+
 Задание 3. Игра «Угадай число».
