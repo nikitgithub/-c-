@@ -36,3 +36,6 @@
 ![image](https://user-images.githubusercontent.com/109956617/181341196-e776059a-13e2-4b9a-8cde-3e5d5fe65748.png)
 
 Задание 2. Перестановка слов в предложении.
+
+![image](https://user-images.githubusercontent.com/109956617/181346138-f6c9d5c9-32bf-42ab-b5b3-ae8a0945abea.png)
+
