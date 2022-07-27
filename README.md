@@ -30,3 +30,9 @@
 Задание 3. Игра «Угадай число».
 
 ![image](https://user-images.githubusercontent.com/109956617/181312506-acaa892a-90d5-4267-b7e4-f58f9fc71ea0.png)
+# модуль 5
+Задание 1. Метод разделения строки на слова.
+
+![image](https://user-images.githubusercontent.com/109956617/181341196-e776059a-13e2-4b9a-8cde-3e5d5fe65748.png)
+
+Задание 2. Перестановка слов в предложении.
