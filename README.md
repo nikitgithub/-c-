@@ -42,3 +42,6 @@
 # модуль 6
 создание справочника создавая файл
 
+![image](https://user-images.githubusercontent.com/109956617/182698385-46871275-e4a7-49fa-bb5e-ad6a753522e9.png)
+![image](https://user-images.githubusercontent.com/109956617/182698439-55a5c494-48c4-4f99-a416-b1edd3d32a19.png)
+
